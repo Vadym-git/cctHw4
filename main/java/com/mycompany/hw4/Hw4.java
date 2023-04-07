@@ -14,4 +14,8 @@ public class Hw4 {
     public static void main(String[] args) {
         System.out.println("Hello World!");
     }
+    
+    public static void dev1Branch(){
+    // Here is dev1 branche commit 1
+    }
 }
