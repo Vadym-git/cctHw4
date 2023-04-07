@@ -16,6 +16,10 @@ public class Hw4 {
     }
     
     public static void dev1Branch(){
-    // Here is dev1 branche commit 1
+    // Here is dev1 branch commit 1
+    }
+    
+        public static void dev1BranchCommit2(){
+    // Here is dev1 branch commit 2
     }
 }
