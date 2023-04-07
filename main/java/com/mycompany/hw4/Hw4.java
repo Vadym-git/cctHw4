@@ -14,4 +14,8 @@ public class Hw4 {
     public static void main(String[] args) {
         System.out.println("Hello World!");
     }
+    
+    public static void newFitchDev2(){
+        // here branch dev 2 commit 1
+    }
 }
