@@ -19,7 +19,11 @@ public class Hw4 {
         // here branch dev 2 commit 1
     }
     
-        public static void oneMoreFitchDev2(){
+    public static void oneMoreFitchDev2(){
         // here branch dev 2 commit 2
+    }
+    
+    public static void extraFitchDev2(){
+        // here branch dev 2 commit 3
     }
 }
